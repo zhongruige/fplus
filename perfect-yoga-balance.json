@@ -1,16 +1,14 @@
-{
-    "data": [
-        {
-            "name": "First",
-            "day": 0,
-            "duration": 20,
-            "description": "A new workout"
-        },
-        {
-            "name": "Second",
-            "day": 2,
-            "duration": 10,
-            "description": "Yet another workout."
-        }
-    ]
-}
+[
+    {
+        "name": "First",
+        "day": 0,
+        "duration": 20,
+        "description": "A new workout"
+    },
+    {
+        "name": "Second",
+        "day": 2,
+        "duration": 10,
+        "description": "Yet another workout."
+    }
+]
