@@ -2,14 +2,14 @@
     "data": [
         {
             "name": "Yoga with Jessica",
-            "day": 0,
+            "day": "0",
             "duration": 10,
             "url": "https://fitness.apple.com/us/workout/yoga-with-jessica/1595101770",
             "description": "Episode or music"
         },
         {
             "name": "Yoga with Jonell",
-            "day": 1,
+            "day": "1",
             "duration": 20,
             "url": "https://fitness.apple.com/us/workout/yoga-with-jessica/1595101770",
             "description": "Episode or music"
